@@ -21,7 +21,7 @@ function Home() {
             <li key={presentation}>{presentation}</li>
           ))}
         </ul>
-        </div>
+      </div>
     )
 }
 
